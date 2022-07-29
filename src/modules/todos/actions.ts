@@ -1,4 +1,4 @@
-import { ActionType, createReducer, deprecated } from "typesafe-actions";
+import { deprecated } from "typesafe-actions";
 const { createStandardAction } = deprecated;
 
 // 액션타입 선언
